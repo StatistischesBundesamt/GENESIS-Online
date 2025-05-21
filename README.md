@@ -12,11 +12,15 @@ This GitHub-repo provides python and VBA example code for the most common servic
 All examples show POST requests. From July 2025 on the RESTful/JSON webservice interface of GENESIS-Online will no longer respond to GET requests. Also, SOAP/XML services will be retired entirely by this date.
 
 ## Contents of this repo
-Python_logincheck: Check credentials and availability or terminate requests
-Python_tablefile: Download tables
-Python_cubefile: Research and download cubes
-VBA_logincheck: Check credentials and availability or terminate requests
-VBA_tablefile: Download tables
+[Python_logincheck] (https://github.com/StatistischesBundesamt/GENESIS-Online/blob/main/python_logincheck.ipynb): Check credentials and availability or terminate requests
+
+[Python_tablefile] (https://github.com/StatistischesBundesamt/GENESIS-Online/blob/main/python_tablefile.ipynb): Download tables
+
+[Python_cubefile]: (https://github.com/StatistischesBundesamt/GENESIS-Online/blob/main/python_cubefile.ipynb): Research and download cubes
+
+[VBA_logincheck]: (https://github.com/StatistischesBundesamt/GENESIS-Online/blob/main/vba_logincheck.ipynb): Check credentials and availability or terminate requests
+
+[VBA_tablefile]: (https://github.com/StatistischesBundesamt/GENESIS-Online/blob/main/vba_tablefile.ipynb): Download tables
 
 ## Filing issues
 In case of API downtime or issues of unexpected behaviour as well as for general inquiries about our database, please report them directly to our [contact form] (https://www.destatis.de/DE/Service/Kontakt/Genesis/Servicekontakt-GENESIS.html). This is the fastest way to find support. 

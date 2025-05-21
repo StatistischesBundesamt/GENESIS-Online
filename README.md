@@ -11,7 +11,7 @@ This GitHub-repo provides python and VBA example code for the most common servic
 ## API Developments in July 2025
 All examples show POST requests. From July 2025 on the RESTful/JSON webservice interface of GENESIS-Online will no longer respond to GET requests. Also, SOAP/XML services will be retired entirely by this date.
 
-## Contents of this repo
+## Contents of this repository
 [Python_logincheck](https://github.com/StatistischesBundesamt/GENESIS-Online/blob/main/python_logincheck.ipynb): Check credentials and availability or terminate requests
 
 [Python_tablefile](https://github.com/StatistischesBundesamt/GENESIS-Online/blob/main/python_tablefile.ipynb): Download tables

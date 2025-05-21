@@ -1,4 +1,4 @@
-# Read Me
+# GENESIS-Online
 ## About
 This is the official GitHub-account of the German Federal Statistical Office. GENESIS-Online is the main database of the Federal Statistical Office and provides results of official statistics in a deeply structured way. All data as well as use of the API are available free of charge. For correct use of license/citation terms see [here](https://www-genesis.destatis.de/datenbank/online/#modal=imprint).
 

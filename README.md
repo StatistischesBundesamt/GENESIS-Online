@@ -9,7 +9,7 @@ The [textual description](https://www-genesis.destatis.de/datenbank/online/docs/
 This GitHub-repo provides python and VBA example code for the most common services of the RESTful/JSON webservice interface such as table and cube download. A modest familiarity with programming languages would be helpful. For R-users there is the independently developed [restatis](https://github.com/CorrelAid/restatis) package. Code snippets have run successfully but are provided as is.
 
 ## API Developments in July 2025
-All examples show POST requests. From July 2025 on the RESTful/JSON webservice interface of GENESIS-Online will no longer respond to GET requests. Also, SOAP/XML services will be retired entirely by this date.
+All examples show POST requests. From July 15, 2025 on the RESTful/JSON webservice interface of GENESIS-Online will no longer respond to GET requests. Also, SOAP/XML services will be retired entirely by this date.
 
 ## Contents of this repository
 [Python_logincheck](https://github.com/StatistischesBundesamt/GENESIS-Online/blob/main/python_logincheck.ipynb): Check credentials and availability or terminate requests

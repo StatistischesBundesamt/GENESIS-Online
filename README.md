@@ -16,6 +16,8 @@ All examples show POST requests. From July 15, 2025 on the RESTful/JSON webservi
 
 [Python_tablefile](https://github.com/StatistischesBundesamt/GENESIS-Online/blob/main/python_tablefile.ipynb): Download tables
 
+[Python_tablefile](https://github.com/StatistischesBundesamt/GENESIS-Online/blob/main/python_tablefile_contents.ipynb): Download tables contents
+
 [Python_cubefile](https://github.com/StatistischesBundesamt/GENESIS-Online/blob/main/python_cubefile.ipynb): Research and download cubes
 
 [VBA_logincheck](https://github.com/StatistischesBundesamt/GENESIS-Online/blob/main/vba_logincheck.ipynb): Check credentials and availability or terminate requests
